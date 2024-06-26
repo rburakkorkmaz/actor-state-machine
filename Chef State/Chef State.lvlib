@@ -5,9 +5,13 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
-	<Item Name="Messages for this Actor" Type="Folder"/>
+	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Go to Idle Msg.lvclass" Type="LVClass" URL="../Chef State Messages/Go to Idle Msg/Go to Idle Msg.lvclass"/>
+		<Item Name="Go to Init Msg.lvclass" Type="LVClass" URL="../Chef State Messages/Go to Init Msg/Go to Init Msg.lvclass"/>
+		<Item Name="Go to Work Msg.lvclass" Type="LVClass" URL="../Chef State Messages/Go to Work Msg/Go to Work Msg.lvclass"/>
+	</Item>
 	<Item Name="Chef State.lvclass" Type="LVClass" URL="../Chef State/Chef State.lvclass"/>
-	<Item Name="Init.lvclass" Type="LVClass" URL="../Class 4/Init.lvclass"/>
+	<Item Name="Init.lvclass" Type="LVClass" URL="../Init/Init.lvclass"/>
 	<Item Name="Idle.lvclass" Type="LVClass" URL="../Idle/Idle.lvclass"/>
 	<Item Name="Work.lvclass" Type="LVClass" URL="../Work/Work.lvclass"/>
 </Library>
