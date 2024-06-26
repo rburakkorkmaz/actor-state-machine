@@ -7,6 +7,7 @@
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Go to Idle State Msg.lvclass" Type="LVClass" URL="../../Chef UI Messages/Go to Idle State Msg/Go to Idle State Msg.lvclass"/>
 		<Item Name="Go to Work State Msg.lvclass" Type="LVClass" URL="../../Chef UI Messages/Go to Work State Msg/Go to Work State Msg.lvclass"/>
+		<Item Name="Start Work Msg.lvclass" Type="LVClass" URL="../../Chef UI Messages/Start Work Msg/Start Work Msg.lvclass"/>
 	</Item>
 	<Item Name="Chef UI.lvclass" Type="LVClass" URL="../Chef UI.lvclass"/>
 </Library>

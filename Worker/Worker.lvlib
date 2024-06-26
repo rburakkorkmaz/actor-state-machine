@@ -4,6 +4,12 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">604012544</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
-	<Item Name="Messages for this Actor" Type="Folder"/>
+	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Count Down by One Msg.lvclass" Type="LVClass" URL="../Worker Messages/Count Down by One Msg/Count Down by One Msg.lvclass"/>
+		<Item Name="Count Down Msg.lvclass" Type="LVClass" URL="../Worker Messages/Count Down Msg/Count Down Msg.lvclass"/>
+		<Item Name="Get Random Number Msg.lvclass" Type="LVClass" URL="../Worker Messages/Get Random Number Msg/Get Random Number Msg.lvclass"/>
+		<Item Name="Stop Count Down Msg.lvclass" Type="LVClass" URL="../Worker Messages/Stop Count Down Msg/Stop Count Down Msg.lvclass"/>
+		<Item Name="Test Methods Msg.lvclass" Type="LVClass" URL="../Worker Messages/Test Methods Msg/Test Methods Msg.lvclass"/>
+	</Item>
 	<Item Name="Worker.lvclass" Type="LVClass" URL="../Worker/Worker.lvclass"/>
 </Library>

@@ -9,6 +9,8 @@
 		<Item Name="Go to Idle Msg.lvclass" Type="LVClass" URL="../Chef State Messages/Go to Idle Msg/Go to Idle Msg.lvclass"/>
 		<Item Name="Go to Init Msg.lvclass" Type="LVClass" URL="../Chef State Messages/Go to Init Msg/Go to Init Msg.lvclass"/>
 		<Item Name="Go to Work Msg.lvclass" Type="LVClass" URL="../Chef State Messages/Go to Work Msg/Go to Work Msg.lvclass"/>
+		<Item Name="Stop Count Down Msg.lvclass" Type="LVClass" URL="../Work Messages/Stop Count Down Msg/Stop Count Down Msg.lvclass"/>
+		<Item Name="Update Count Msg.lvclass" Type="LVClass" URL="../Work Messages/Update Count Msg/Update Count Msg.lvclass"/>
 	</Item>
 	<Item Name="Chef State.lvclass" Type="LVClass" URL="../Chef State/Chef State.lvclass"/>
 	<Item Name="Init.lvclass" Type="LVClass" URL="../Init/Init.lvclass"/>
