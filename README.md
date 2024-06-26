@@ -1,0 +1,1 @@
+This project is to learn about <a link="https://www.vipm.io/package/ni_lib_state_pattern_actor/">NI Actor State Machine Toolkit</a>. This toolkit benefits from Actor Framework's SubstituteActor.vi method which lets user to change running actor with another one without losing references and other stuff.
